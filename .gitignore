@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+RAGE.Rproj
+data/
+docs/
+temp/
+reports/
